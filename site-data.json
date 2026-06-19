@@ -1,30 +1,31 @@
 {
   "business": {
     "name": "Highland Park TX Service Plumbing Electrical Air Conditioning Repair & Vent Duct Cleaning",
-    "shortName": "Highland Park Service",
-    "tagline": "Your Trusted Home Service Experts in Dallas, TX",
+    "shortName": "Highland Park Service Pros",
+    "tagline": "Dallas's Trusted Home Service Experts Since 2010",
     "niche": "Plumber",
-    "phone": "(469) 864-6982",
-    "address": "123 Main St, Dallas, TX 75201",
+    "phone": "(469) 864-6982",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7am-7pm, Sat 8am-5pm, Sun 9am-3pm",
-    "ctaLabel": "Get a Free Estimate"
+    "hours": "Mon-Sun: 7am-9pm",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Highland Park TX Plumbing, Electrical, AC Repair & Duct Cleaning | Dallas",
-    "description": "Expert plumbing, electrical, air conditioning repair, and vent duct cleaning in Dallas, TX. Trusted by Highland Park homeowners. Call (469) 864-6982 for fast, reliable service."
+    "title": "Best Plumber in Dallas, TX | Highland Park Service Pros | (469) 864-6982",
+    "description": "Highland Park Service Pros offers expert plumbing, electrical, AC repair & duct cleaning in Dallas, TX. Fast, reliable, and upfront pricing. Call (469) 864-6982."
   },
   "home": {
     "hero": {
-      "eyebrow": "Serving Dallas & Highland Park",
-      "headline": "Plumbing, Electrical, AC & Duct Cleaning – All in One Call",
-      "subheadline": "Your home’s comfort and safety are our priority. From emergency repairs to routine maintenance, our certified technicians deliver top-quality service with a smile.",
-      "primaryCta": "Book Service",
+      "eyebrow": "Dallas's Premier Home Service Company",
+      "headline": "Expert Plumbing, Electrical, AC & Duct Cleaning in Dallas",
+      "subheadline": "Fast, reliable service with upfront pricing and a 100% satisfaction guarantee.",
+      "primaryCta": "Schedule Service",
       "secondaryCta": "Call (469) 864-6982"
     },
     "stats": [
       {
-        "value": "250+",
+        "value": "500+",
         "label": "5-Star Reviews"
       },
       {
@@ -32,47 +33,47 @@
         "label": "Years Experience"
       },
       {
-        "value": "99%",
+        "value": "98%",
         "label": "Satisfaction Rate"
       },
       {
-        "value": "24/7",
-        "label": "Emergency Service"
+        "value": "Same Day",
+        "label": "Service Available"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Why Choose Us",
-        "title": "Comprehensive Home Services – One Trusted Provider",
-        "body": "We eliminate the hassle of juggling multiple contractors. Our team handles everything from leaky faucets to complete AC replacements and duct cleaning, ensuring your home runs smoothly year-round.",
+        "eyebrow": "Plumbing",
+        "title": "Expert Plumbing Repairs & Installations",
+        "body": "From leaky faucets to burst pipes, our licensed plumbers handle it all. We use the latest technology to diagnose and fix issues fast, minimizing disruption to your home.",
         "bullets": [
-          "Licensed, bonded, and insured technicians",
-          "Upfront pricing – no hidden fees",
-          "Same-day service available",
-          "Satisfaction guaranteed"
+          "Leak detection & repair",
+          "Water heater installation & repair",
+          "Drain cleaning & sewer line services",
+          "Fixture upgrades & repiping"
         ],
         "reverse": false,
-        "cardLabel": "Customer Favorite",
-        "cardTitle": "Plumbing Repair",
-        "cardBody": "Fast, reliable fixes for leaks, clogs, and more. Our plumbers arrive fully stocked to solve most issues in one visit."
+        "cardLabel": "Plumbing",
+        "cardTitle": "24/7 Emergency Plumbing",
+        "cardBody": "We're available around the clock for urgent plumbing issues. Call us anytime."
       },
       {
-        "eyebrow": "Breathe Cleaner Air",
-        "title": "Vent Duct Cleaning – Improve Indoor Air Quality",
-        "body": "Over time, dust, allergens, and debris accumulate in your ductwork, reducing efficiency and air quality. Our thorough cleaning process removes contaminants, helping your HVAC system run better and your family breathe easier.",
+        "eyebrow": "Electrical",
+        "title": "Safe & Reliable Electrical Services",
+        "body": "Whether you need new wiring, outlet installation, or panel upgrades, our electricians ensure your home is safe and up to code. We handle everything from small fixes to full rewires.",
         "bullets": [
-          "Removes dust, pollen, and pet dander",
-          "Boosts HVAC efficiency – saves on energy bills",
-          "Reduces musty odors",
-          "Recommended every 3-5 years"
+          "Outlet & switch installation",
+          "Panel upgrades & troubleshooting",
+          "Lighting installation (indoor & outdoor)",
+          "Whole-home surge protection"
         ],
         "reverse": true,
-        "cardLabel": "Health & Efficiency",
-        "cardTitle": "Duct Cleaning Process",
-        "cardBody": "We use HEPA-filtered vacuum equipment and agitation tools to dislodge and extract debris from your entire duct system."
+        "cardLabel": "Electrical",
+        "cardTitle": "Electrical Safety Inspections",
+        "cardBody": "Protect your home with a comprehensive electrical safety check. We identify hazards and recommend solutions."
       }
     ],
-    "whyTitle": "Why Highland Park Service?",
+    "whyTitle": "Why Choose Highland Park Service Pros?",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
@@ -80,242 +81,250 @@
       },
       {
         "title": "Upfront Pricing",
-        "description": "No surprises. We provide a detailed estimate before any work begins."
+        "description": "No hidden fees or surprises. We provide a clear estimate before any work begins."
       },
       {
         "title": "Same-Day Service",
-        "description": "Most emergencies handled the same day – we’re here when you need us."
+        "description": "Most repairs are scheduled and completed the same day you call. We respect your time."
       },
       {
         "title": "Satisfaction Guaranteed",
-        "description": "If you’re not happy, we’ll make it right. Your trust is our top priority."
+        "description": "If you're not happy, we'll make it right. Your satisfaction is our top priority."
       }
     ],
     "testimonials": [
       {
-        "quote": "They fixed a burst pipe at 2am and were incredibly professional. Saved our basement!",
-        "author": "Sarah M.",
-        "role": "Dallas Homeowner"
+        "quote": "They fixed my water heater in under two hours. Professional and fair price.",
+        "author": "Tom R.",
+        "role": "Lakewood homeowner"
       },
       {
-        "quote": "Our AC wasn’t cooling at all. They diagnosed and repaired it in under two hours. Highly recommend.",
-        "author": "James T.",
-        "role": "Highland Park Resident"
+        "quote": "Great experience with electrical panel upgrade. Clean work and on time.",
+        "author": "Lisa M.",
+        "role": "Highland Park resident"
       },
       {
-        "quote": "Duct cleaning made a huge difference – less dust and allergy symptoms. Worth every penny.",
-        "author": "Linda K.",
-        "role": "Repeat Customer"
+        "quote": "AC went out on the hottest day. They came same day and had it running quickly.",
+        "author": "David K.",
+        "role": "Preston Hollow homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Experience Top-Notch Service?",
-      "subheadline": "Call us or book online for a free estimate. We’re standing by to help.",
-      "primaryCta": "Schedule Now",
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call now or schedule online for fast, reliable service.",
+      "primaryCta": "Schedule Service",
       "secondaryCta": "Call (469) 864-6982"
     }
   },
   "servicesPage": {
-    "intro": "From plumbing emergencies to electrical upgrades, AC repairs, and duct cleaning, our certified team delivers expert solutions for Dallas and Highland Park homes. Every service comes with a 100% satisfaction guarantee."
+    "intro": "We offer comprehensive home services in Dallas, TX. From plumbing and electrical to AC repair and duct cleaning, our skilled technicians deliver quality workmanship and exceptional customer care."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Plumbing Repair & Installation",
-      "shortDescription": "Expert plumbing services for leaks, clogs, water heaters, and more.",
-      "longDescription": "Our plumbers handle everything from minor faucet repairs to major pipe replacements. We use advanced diagnostic tools to pinpoint issues quickly, saving you time and money. Whether it's a dripping faucet or a burst pipe, we've got you covered.",
+      "title": "Plumbing Services",
+      "shortDescription": "Expert plumbing repairs, installations, and maintenance for your home.",
+      "longDescription": "Our licensed plumbers handle everything from minor leaks to major repiping. We use advanced diagnostic tools to pinpoint issues quickly and provide lasting solutions. Services include water heater repair, drain cleaning, sewer line inspection, and fixture installation.",
       "benefits": [
-        "Fast emergency response – 24/7 availability",
+        "Fast response times – same-day service available",
         "Upfront pricing with no hidden fees",
-        "Licensed, insured, and background-checked plumbers"
+        "Licensed, insured, and experienced technicians",
+        "All work backed by a satisfaction guarantee"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We inspect your plumbing system using camera scopes and pressure tests to identify the root cause."
+          "title": "Inspect & Diagnose",
+          "description": "We thoroughly assess the issue using cameras and leak detectors to identify the root cause."
         },
         {
-          "title": "Repair Plan",
-          "description": "We provide a clear, itemized quote and explain the recommended solution before any work begins."
+          "title": "Provide Clear Estimate",
+          "description": "You get a detailed, written estimate before any work begins. No surprises."
         },
         {
-          "title": "Quality Repair",
-          "description": "Our technicians complete the repair efficiently, then test everything to ensure it's working perfectly."
+          "title": "Repair & Follow-Up",
+          "description": "We complete the repair efficiently and clean up. We follow up to ensure everything is working perfectly."
         }
       ],
       "faqs": [
         {
           "question": "Do you offer emergency plumbing services?",
-          "answer": "Yes, we’re available 24/7 for emergencies. Call (469) 864-6982 for immediate assistance."
+          "answer": "Yes, we offer 24/7 emergency plumbing services. Call (469) 864-6982 anytime for urgent issues."
         },
         {
-          "question": "How much does a typical plumbing repair cost?",
-          "answer": "Costs vary, but we provide free estimates upfront. Most minor repairs range from $150 to $500."
+          "question": "How much does a plumbing visit cost?",
+          "answer": "We provide free estimates for most jobs. Our service fee is transparent and applied to any repair work."
         }
       ],
-      "slug": "plumbing-repair-installation"
+      "slug": "plumbing-services"
     },
     {
       "icon": "02",
-      "title": "Electrical Repair & Installation",
-      "shortDescription": "Safe, reliable electrical services for your home.",
-      "longDescription": "From flickering lights to full rewiring, our electricians handle all residential electrical needs. We prioritize safety and code compliance, ensuring your home’s electrical system is reliable and up to date.",
+      "title": "Electrical Services",
+      "shortDescription": "Safe and reliable electrical solutions for your home or business.",
+      "longDescription": "Our electricians handle all residential electrical needs, from outlet repairs to full panel upgrades. We prioritize safety and code compliance, ensuring your home’s electrical system is reliable and efficient.",
       "benefits": [
-        "Licensed master electricians on staff",
-        "All work meets or exceeds local codes",
-        "Free safety inspections with every service"
+        "Licensed electricians with years of experience",
+        "Comprehensive safety inspections available",
+        "Modern solutions including smart home wiring",
+        "Clean, professional work with minimal disruption"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We evaluate your electrical system, checking for hazards like outdated wiring or overloaded circuits."
+          "description": "We evaluate your electrical system and discuss your needs to recommend the best solution."
         },
         {
-          "title": "Solution Design",
-          "description": "We recommend the best solution, from simple repairs to panel upgrades, with transparent pricing."
+          "title": "Plan & Quote",
+          "description": "We provide a detailed plan and upfront quote. No hidden costs."
         },
         {
-          "title": "Installation & Testing",
-          "description": "Our electricians perform the work safely, then test every outlet and fixture to ensure proper function."
+          "title": "Install & Test",
+          "description": "Our electricians complete the work safely and test everything to ensure proper function."
         }
       ],
       "faqs": [
         {
-          "question": "Do you install EV chargers?",
-          "answer": "Yes, we install Level 2 EV chargers. We’ll assess your panel capacity and handle the entire installation."
+          "question": "Can you install a new electrical panel?",
+          "answer": "Yes, we install and upgrade electrical panels to meet modern demands and safety standards."
         },
         {
-          "question": "How long does a typical electrical repair take?",
-          "answer": "Most repairs, like replacing a switch or outlet, take 1-2 hours. Larger projects may take longer."
+          "question": "Do you offer outdoor lighting installation?",
+          "answer": "Absolutely. We install landscape lighting, security lights, and more."
         }
       ],
-      "slug": "electrical-repair-installation"
+      "slug": "electrical-services"
     },
     {
       "icon": "03",
-      "title": "Air Conditioning Repair & Maintenance",
-      "shortDescription": "Keep your home cool with expert AC services.",
-      "longDescription": "Our HVAC technicians are trained to diagnose and repair all makes and models of air conditioning systems. We offer routine maintenance to prevent breakdowns and extend the life of your unit.",
+      "title": "AC Repair & Installation",
+      "shortDescription": "Keep your home comfortable with expert AC services.",
+      "longDescription": "From routine maintenance to emergency repairs, our HVAC technicians ensure your air conditioning system runs efficiently. We service all major brands and offer installation for new systems.",
       "benefits": [
         "Same-day AC repair service",
-        "Preventative maintenance plans available",
-        "Factory-trained technicians for all major brands"
+        "Factory-trained technicians",
+        "Upfront pricing on all repairs",
+        "Maintenance plans to extend system life"
       ],
       "process": [
         {
-          "title": "System Check",
-          "description": "We inspect your AC unit, checking refrigerant levels, coils, and electrical components."
+          "title": "Diagnose",
+          "description": "We inspect your AC unit, check refrigerant levels, and test components to identify the issue."
         },
         {
-          "title": "Diagnosis",
-          "description": "We identify the issue using advanced diagnostic tools and explain it in simple terms."
+          "title": "Explain Options",
+          "description": "We explain the problem and your repair or replacement options with clear pricing."
         },
         {
-          "title": "Repair & Test",
-          "description": "We perform the repair and run the system to ensure it’s cooling properly and efficiently."
+          "title": "Repair & Verify",
+          "description": "We complete the repair and verify the system is cooling properly and efficiently."
         }
       ],
       "faqs": [
         {
           "question": "How often should I service my AC?",
-          "answer": "We recommend annual maintenance, ideally in spring, to keep your system running efficiently."
+          "answer": "We recommend annual maintenance before summer to ensure efficiency and prevent breakdowns."
         },
         {
-          "question": "Do you offer financing for AC replacement?",
-          "answer": "Yes, we offer flexible financing options for new AC installations. Ask about our specials!"
+          "question": "Do you install new AC units?",
+          "answer": "Yes, we install a wide range of energy-efficient AC units. We can help you choose the right size for your home."
         }
       ],
-      "slug": "air-conditioning-repair-maintenance"
+      "slug": "ac-repair-installation"
     },
     {
       "icon": "04",
-      "title": "Vent Duct Cleaning",
+      "title": "Vent & Duct Cleaning",
       "shortDescription": "Improve indoor air quality with professional duct cleaning.",
-      "longDescription": "Our comprehensive duct cleaning service removes dust, allergens, mold, and debris from your HVAC ductwork. This improves air quality, reduces allergens, and helps your system run more efficiently.",
+      "longDescription": "Our duct cleaning service removes dust, allergens, and debris from your HVAC system. This improves air quality, reduces allergies, and can lower energy bills. We use HEPA-filtered equipment for a thorough clean.",
       "benefits": [
-        "HEPA-filtered vacuum extraction",
-        "Reduces dust and allergens in your home",
-        "Improves HVAC efficiency – lowers energy bills"
+        "Removes dust, mold, and allergens",
+        "Improves HVAC efficiency",
+        "Reduces allergy symptoms",
+        "Leaves your home fresher and cleaner"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We inspect your ductwork using cameras to assess the level of contamination."
+          "description": "We inspect your ductwork with cameras to assess cleanliness and identify any issues."
         },
         {
-          "title": "Agitation & Extraction",
-          "description": "We use specialized brushes and air whips to dislodge debris, then extract it with a powerful HEPA vacuum."
+          "title": "Agitation & Vacuum",
+          "description": "We use rotary brushes and a powerful HEPA vacuum to dislodge and remove debris."
         },
         {
-          "title": "Sanitization (optional)",
-          "description": "We can apply an EPA-approved sanitizer to eliminate bacteria and mold spores for a deeper clean."
+          "title": "Sanitize & Seal",
+          "description": "We apply an antimicrobial sanitizer and seal any leaks to improve efficiency."
         }
       ],
       "faqs": [
         {
           "question": "How often should I have my ducts cleaned?",
-          "answer": "Every 3-5 years, or more often if you have pets, allergies, or recent renovations."
+          "answer": "Every 3-5 years is typical, but more often if you have pets, allergies, or recent renovations."
         },
         {
-          "question": "Will duct cleaning reduce my energy bills?",
-          "answer": "Yes, clean ducts allow your HVAC system to operate more efficiently, potentially lowering your energy costs."
+          "question": "Does duct cleaning reduce energy bills?",
+          "answer": "Yes, clean ducts allow your HVAC system to run more efficiently, potentially lowering energy costs."
         }
       ],
       "slug": "vent-duct-cleaning"
     }
   ],
   "about": {
-    "headline": "Your Home’s Comfort Is Our Mission",
-    "mission": "To provide Dallas and Highland Park homeowners with honest, high-quality plumbing, electrical, AC, and duct cleaning services that exceed expectations.",
+    "headline": "Your Trusted Home Service Partner in Dallas",
+    "mission": "To provide Dallas homeowners with fast, reliable, and fairly priced home services they can count on.",
     "story": [
-      "Founded in 2009, Highland Park Service began as a small plumbing company with a big vision: to bring integrity and craftsmanship back to home services. Over the years, we expanded to include electrical, air conditioning, and duct cleaning, always with the same commitment to excellence. Our team has grown, but our values haven’t changed – we treat every home like our own.",
-      "Today, we’re proud to be the go-to provider for hundreds of families in the Dallas area. Our technicians undergo continuous training to stay ahead of the latest technologies and best practices. We believe in building long-term relationships, not just fixing problems. When you call us, you’re not just a job – you’re a neighbor."
+      "Highland Park Service Pros started with a simple mission: bring honesty and professionalism back to home services. Founded by a team of experienced tradesmen, we saw too many homeowners get overcharged or left with shoddy work. We built our company on transparency, quality, and respect for your home.",
+      "Today, we serve thousands of families across Dallas. Our team of licensed plumbers, electricians, and HVAC technicians undergoes continuous training to stay ahead of industry standards. Whether it's a leaking pipe or a dead AC, we treat every home like our own."
     ],
     "highlight": {
-      "stat": "99%",
-      "label": "Customer Satisfaction"
+      "stat": "15+",
+      "label": "Years of Excellence"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what we say, and we’re transparent in all our dealings."
+        "description": "We do the right thing, even when no one is watching. Honest advice, fair pricing."
       },
       {
         "title": "Quality",
-        "description": "Every job is done right the first time, using top-grade materials and techniques."
+        "description": "We take pride in our work. Every job is done right the first time, using top-grade materials."
       },
       {
         "title": "Respect",
-        "description": "We treat your home and your time with the utmost respect."
+        "description": "We treat your home with care. Clean work areas, clear communication, and punctuality."
       },
       {
         "title": "Community",
-        "description": "We’re proud to serve our neighbors and give back to the Dallas community."
+        "description": "We're proud to serve Dallas and give back through local sponsorships and free safety inspections."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "We’re here to help with all your home service needs. Call or fill out the form for a free estimate.",
+    "subheadline": "We're here to help with all your home service needs.",
     "primaryCta": "Call (469) 864-6982",
     "formCta": "Send Message",
     "serviceAreas": [
-      "Dallas, TX",
-      "Highland Park, TX",
-      "University Park, TX",
-      "Preston Hollow, TX",
-      "Lakewood, TX",
-      "North Dallas, TX"
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow",
+      "Lakewood",
+      "Park Cities",
+      "North Dallas",
+      "East Dallas"
     ]
   },
   "social_proof": {
-    "rating": null,
+    "rating": "",
     "reviews": null
   },
   "meta": {
     "niche": "Plumber",
-    "generated_by": "deepseek"
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
   },
   "phone_href": "tel:4698646982",
-  "current_year": 2026
+  "current_year": 2026,
+  "header_cta": "Call Now"
 }
